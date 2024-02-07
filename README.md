@@ -1,7 +1,7 @@
 <h1>💫 About Me:</h1>
 
 ### 
-<div align="left">Dedicated and Proactive Engineer</div>
+<div align="left">Dedicated and Proactive Engineer.</div><br />
 <div align="left">I am actively pursuing oppurtunities to work in a dynamic and stimulating environment that fosters ongoing learning. I thrive in challenging environments where the workload pushes me to excel, considering such situations highly beneficial for bringing out my optimal performance.</div> 
 <div align="left">I am enthusiastic about enhancing my skills to align with industry requirements, promoting both professional and personal growth.</div>
 
