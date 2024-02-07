@@ -1,9 +1,9 @@
 <h1>💫 About Me:</h1>
 
 ### 
-<div align="left">Building with code and burning with ambition!!</div>
-<div align="left">I am a passionate Full Stack Developer proficient in embracing the latest frameworks and libraries, constantly pushing the boundaries of what's possible.</div> 
-<div align="left">I love coding and solving real-world problems that inspire change.</div>
+<div align="left">Dedicated and Proactive Engineer</div>
+<div align="left">I am actively pursuing oppurtunities to work in a dynamic and stimulating environment that fosters ongoing learning. I thrive in challenging environments where the workload pushes me to excel, considering such situations highly beneficial for bringing out my optimal performance.</div> 
+<div align="left">I am enthusiastic about enhancing my skills to align with industry requirements, promoting both professional and personal growth.</div>
 
 <br />
 <hr />
